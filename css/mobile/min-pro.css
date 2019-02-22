@@ -1,0 +1,206 @@
+.heart-oms{
+    margin-top: 0.5rem;
+}
+.heart-oms .middle{
+    color: #fff;
+    text-align: center;
+    background: url('../../img/prodectcenter/hrart27.png') no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 12px;
+}
+.heart-oms .middle p:nth-of-type(2){
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+.heart-oms .middle>div{
+    display: inline-block;
+    width: 76px;
+    line-height: 25px;
+    margin: 0 15px;
+}
+.btn1-mb{
+    background-color: #00a2ff;
+    color: white;
+}
+.btn1-mb a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+}
+.btn2-mb{
+    background-color: #fff;
+    color: #00a2ff;
+}
+/* ---------------------------------------------------------- */
+.product-concept-mb{
+    padding: 30px 0 30px;
+    text-align: center;
+}
+.product-concept-mb h1{
+    font-size: 17px;
+    font-weight: 700;
+}
+.product-concept-mb .icon-5-mb>.mb-last{
+    position: relative;
+    right: 24%;
+}
+body .product-concept-mb h1{
+    padding-bottom: 0;
+}
+.icon-5-mb{
+    font-size: 12px;
+}
+.icon-5-mb p:nth-of-type(2){
+    margin-top: 8px;
+}
+.icon-5-1-mb{
+    display: flex;
+    justify-content: space-around;
+    width: 160px;
+    margin: 20px auto;
+}
+.icon-5-1-mb div{
+    width: 60px;
+}
+.icon-5-1-mb div img{
+    width: 100%;
+}
+.icon-5-1-mb::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+/* ----------------------------------------------- */
+.business-setting-mb{
+    background-color: rgb(36, 34, 34);
+    color: #fff;
+    padding: 0 5px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.business-setting-mb .flow-bg-mb{
+    background: url('../../img/prodectcenter/zu36.png') no-repeat;
+    background-size: 100% 100%;
+    width:100%;
+    max-width: 5rem;
+    height: 2rem;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+.business-setting-mb ul li:nth-of-type(1){
+    margin-top: 16px;
+    margin-bottom: 6px;
+}
+/* -------------------------------------------- */
+.oms-xtts-mb{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.oms-xtts-mb p:nth-of-type(1){
+    margin-top: 16px;
+    margin-bottom: 8px;
+}
+.oms-xtts-mb img{
+    width: 90%;
+}
+/* -------------------------------------------- */
+.multi-channel-mb{
+    text-align: center;    
+    background-color: rgb(3, 3, 44);
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.multi-channel-mb h1{
+    margin-bottom: 20px;
+}
+.multi-channel-mb img{
+    width: 90%;
+}
+/* --------------------------------------------- */
+.feature-fun-mb{
+    text-align: center;
+    padding-top: 30px;
+}
+.feature-fun-mb p{
+    margin: 12px auto 20px;
+}
+.feature-fun-mb ul{
+    margin: 0 auto;
+    max-width: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+.feature-fun-mb ul li{
+    width: 42%;
+    margin: 5px 0;
+}
+.feature-fun-mb ul li:last-child{
+    position: relative;
+    right: 23%;
+}
+/* ---------------------------------------------- */
+.many-pattern-mb{
+    text-align: center;    
+    margin-top: 35px;
+    padding-bottom: 30px;
+}
+.many-pattern-mb h1{
+    margin-bottom: 20px
+}
+.many-pattern-mb ul{
+    margin: 0 auto;
+    max-width: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.many-pattern-mb ul li{
+    width: 43%;
+    height: 145px;
+    margin: 5px;
+    border: #00a2ff 1px solid;
+}
+.many-pattern-mb ul li:last-child{
+    position: relative;
+    right: 25%;
+}
+.many-pattern-mb ul li>div{
+    height: 100%;
+}
+.many-pattern-mb ul li>div section:nth-child(1){
+    background: gainsboro;
+    height: 48%;
+}
+.many-pattern-mb ul li>div section:nth-child(1) p:nth-child(1){
+    font-weight: 700;
+    padding: 2px 0;
+ }
+.many-pattern-mb ul li>div section:nth-child(1) p:nth-child(2){
+   text-align: left;
+   margin-left: 2%;
+}
+.many-pattern-mb ul li>div section:nth-child(2){
+    line-height: 20px;
+    padding-top: 10px;
+}
+.many-pattern-mb ul li>div section:nth-child(2) div{
+    display: inline-block;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 9%;
+    border: #00a2ff 1px solid;
+    color: #00a2ff;
+}
+.many-pattern-mb ul li>div section:nth-child(2) div:nth-child(1){
+    background-color: #00a2ff;
+}
+.many-pattern-mb ul li>div section:nth-child(2) div:nth-child(1) a{
+    color: #fff;
+}

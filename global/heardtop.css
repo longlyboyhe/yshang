@@ -1,0 +1,177 @@
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+/* 导航条 */
+.heart-top{
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    height: 0.9rem;
+    width: 100%;
+    background-color: white;
+    font-size: 0.18rem;
+    transition: all 0.3s ease 0s;
+    cursor:pointer;
+    box-shadow: 0px 2px 9px 0px	rgba(170, 170, 170, 0.23);
+}
+.heart-top>.center{
+    width: 81.25%;
+    margin: 0 auto;
+    height: 100%;
+    max-width: 12rem;
+    min-width: 10rem;
+}
+.heart-top .logo{
+    float: left;
+    width: 30%;
+    text-align: left;
+    height: 0.6rem;
+    transition: all 0.3s ease 0s;
+}
+.heart-top .logo img{
+    height: 0.3rem;
+    margin-top: 0.3rem;
+    transition: all 0.3s ease 0s;  
+}
+.heart-top .nav{
+    float: right;
+    width: 70%;
+    max-width: 10rem;
+    height: 0.9rem;
+    line-height: 0.9rem;
+    white-space: nowrap;
+}
+.heart-top .nav>li{
+    font-size: 16px;
+    float: left;
+    width: 13%;
+    text-align: center;
+}
+.heart-top .nav>.actives{
+	height: 0.9rem;
+}
+.heart-top .nav>.actives>span:before{
+    content: '';
+    position: absolute;
+    top: -34px;
+    left: 0;
+    bottom: auto;
+    right: auto;
+    height: 5px;
+    width: 100%;
+    background-color: #00a2ff;
+}
+.heart-top .nav>.actives>span{
+	position: relative;
+}
+.heart-top .nav>li>span>img{
+    vertical-align: -3px;
+    margin-left: 3px;
+}
+.heart-top .nav>li{
+    position: relative;
+}
+.heart-top .nav>li>.list{
+	display: none;
+    width: 120%;
+    min-width:120px;
+	background: #fff;
+    position: absolute;
+    top: 0.9rem;
+    left: -12px;
+    box-shadow: 0px 3px 20px #c9c2c2;
+    transition: all 0.4s ease 0s;
+}
+.heart-top .nav>.product:hover>.list{
+    display: block;
+}
+.heart-top .nav>.solve:hover>.list{
+    display: block;
+}
+.heart-top .nav>li .list>p{
+	line-height: 0.5rem;
+	border-top: rgb(204, 201, 201) solid 1px;
+    font-size: 0.13rem;
+	transition: all 0.4s ease-out;
+}
+.heart-top .nav>li .list>p span{
+    display: inline-block;
+    width: 100%;
+    height: 0.5rem;
+    margin-left: -14px;
+    position: relative;
+    left: 8px;
+	transition: all 0.4s ease-out;
+}
+.heart-top .nav>li .list>p:hover{
+    background-color:  #f4f4f4;
+}
+.heart-top .nav>li .list>p:hover>span{
+    left: 0px;
+}
+.heart-top .nav>li .list>p>span>img{
+    width: 12px;
+	float: right;
+	position: absolute;
+    top: 20px;
+    right: -12px;
+    opacity: 0;
+    transition: all 0.4s ease-out;
+}
+.heart-top .nav>li .list>p:hover>span>img{
+    opacity: 1;
+    top: 20px;
+    right: -1px;
+}
+.product #productlist p:first-child{
+    border-top: none;
+}
+/* -----小导航条---- */
+body .header-mini{
+    height: 0.6rem;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    min-width: 10rem;
+    background-color: white;
+    box-shadow: 1px 0px 10px rgb(105, 104, 104);
+    transition: all 0.3s ease 0s;  
+}
+body .header-mini>.center{
+    width: 81.25%;
+    margin: 0 auto;
+    max-width: 12rem;
+    min-width: 10rem;
+}
+body .header-mini .logo{
+    height: 0.6rem;
+}
+body .header-mini .logo img{
+    height: 0.5rem;
+    margin-top: 0.05rem;
+}
+body .header-mini .nav{
+    float: right;
+    height: 0.6rem;
+    line-height: 0.6rem;
+    white-space: nowrap;
+}
+body .header-mini .nav>.actives{
+	height: 0.6rem;
+}
+body .header-mini .nav>li>.list{
+    position: absolute;
+    top: 60px;
+}
+body .header-mini .nav>.actives>span:before{
+    content: '';
+    position: absolute;
+    top: -19px;
+    left: 0;
+    height: 5px;
+    width: 100%;
+    background-color: #00a2ff;
+}

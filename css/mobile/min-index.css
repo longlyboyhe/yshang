@@ -1,0 +1,240 @@
+
+.first-page-one .title-h1{
+    padding: 15px 0;
+}
+#mb-box .container{
+    padding: 0 ;
+}
+#mb-box ul{
+    margin: 0 auto;
+}
+.module-1{
+    text-align: center;
+    width: 100%;
+    background-color: #e8e8e8;
+    padding-bottom: 10px;
+}
+.module-1 .top{
+    position: relative;    
+    padding: 5px 0;
+}
+.module-1 .top>p{
+    line-height: 0.3rem;
+}
+.module-1 .top .blue{
+	width: 18.4%;
+	height: 24px;
+	background-color: #00a2ff;
+    position: absolute;
+    top: 27px;    
+    left: 42%;
+	opacity: 0.2;
+}
+.module-1 .vo-model{
+    font-size: 14px;
+    width: 80%;
+    max-width: 335px;
+    min-width: 280px;
+    height: 3rem;
+    margin: 0 auto;
+    background: url('../../img/index/value-2-hover.png') no-repeat;
+    background-size: 100% 100%;
+    margin-bottom: 10px;
+}
+.module-1 .vo-model .vo-top{
+    height: 37%;
+    color: white;
+    text-align: left;
+    padding: 10px;
+}
+.vo-top .rectangle{
+    margin: 6px 10px;
+}
+.module-1 .vo-model .vo-bot{
+    font-size: 13px;
+    padding:0px 10px;
+    text-align: left;
+}
+.module-1 .vo-model .vo-bot .vo-bot-2{
+    margin-top: 18px;
+    line-height: 20px;
+}
+.module-1 .vo-model .vo-bot>a{
+    text-align: center;
+	display: block;
+	line-height: 30px;
+	background: #00a2ff;
+	margin: 18px auto auto auto;
+	color: #fff;
+}
+/* ------------------------ */
+.module-2{
+    text-align: center;    
+    padding-top: 15px;
+}
+.module-2 .blue{
+    width: 18.4%;
+	height: 24px;
+	background-color: #00a2ff;
+    position: absolute;
+    top: 19px;    
+    left: 42%;
+	opacity: 0.2;
+}
+.module-2 ul{
+    padding: 0 10px;
+    max-width: 380px;
+    margin: 0 auto;
+}
+.module-2 ul li{
+    margin: 20px auto;
+}
+.module-2 ul li>p{
+    margin-top: 10px;
+}
+.module-2 img{ 
+    width: 100%;
+
+}
+.module-2 .learn-more{
+    text-decoration:none;
+	display: inline-block;
+	width: 135px;
+    line-height: 35px;
+    background-color: #00a2ff;
+    color: #fff;
+    text-align: center;
+}
+/* +++++++++++++++++++++++++ */
+.midule-3{
+    text-align: center;
+    padding-top: 55px;
+}
+.midule-3 .blue{
+	width: 18.4%;
+	height: 24px;
+	background-color: #00a2ff;
+	margin-left: 40.8%;
+    position: absolute;
+    top: 20px;
+	opacity: 0.2;
+}
+#mb-box .midule-3 ul{
+    padding: 10px;
+    max-width: 380px;
+    margin: 20px auto;
+    margin-bottom: 0;
+}
+.midule-3 ul li{
+    display: inline-block;
+    width: 46%;
+    height: 210px;
+    margin: 0 3px;
+    position: relative;
+}
+.midule-3 ul li>img{
+    width: 100%;
+}
+.midule-3 ul li div{
+    position: absolute;
+    bottom: 42px;
+    right: 7px;
+	width: 90%;
+	height: 125px;
+	margin: 0 auto;
+	text-align: center;
+    color: #fff;
+    padding-top: 32px;
+}
+.midule-3 ul li:nth-of-type(1) div{
+	background-color: #2f9ff7;
+}
+.midule-3 ul li:nth-of-type(2) div{
+	background-color: #fff;
+	color: #222;
+}
+.midule-3 ul li:nth-of-type(3) div{
+	background-color: #0a1c2e;
+}
+.midule-3 ul li:nth-of-type(4) div{
+	background-color: #ff6000;
+}
+.midule-3 ul li:nth-of-type(5) div{
+	background-color: #0b1e31;
+}
+.midule-3 ul li:nth-of-type(6) div{
+	background-color: #ff6000;
+}
+.midule-3 ul li:nth-of-type(7) div{
+	background-color: #2f9ff7;
+}
+.midule-3 ul li:nth-of-type(8) div{
+	background-color: #e8e8e8;
+}
+.midule-3 ul li div p:nth-of-type(1){
+	font-size: 18px;
+	height: 37px;
+	overflow: hidden;
+}
+.midule-3 ul li div p:nth-of-type(2){
+	font-size: 13px;
+	height: 24px;
+	overflow: hidden;
+}
+/* ------------------------------ */
+.midule-4{
+    position: relative;
+    text-align: center;
+}
+.midule-4 .blue{
+	width: 18.4%;
+	height: 24px;
+	background-color: #00a2ff;
+	margin-left: 40.8%;
+    position: absolute;
+    top: 38px;
+	opacity: 0.2;
+}
+#mb-box .midule-4 ul{
+    max-width: 380px;
+    margin-top: 30px;
+}
+.midule-4 ul li{
+    text-align: left;
+    padding: 0 10px;
+}
+.midule-4 ul li>a>div{
+    display: inline-block;
+}
+.midule-4 ul li>a>div:nth-child(2){
+    padding: 10px 0;
+}
+.midule-4 ul li>a>div>p{
+    color: black;
+}
+.midule-4 ul li>a>div>p:nth-child(1){
+    font-size: 18px;
+}
+.midule-5{
+    text-align: center;
+    margin-top: 20px;
+}
+.midule-5 .blue{
+    position: absolute;
+    width: 18.4%;
+	height: 24px;
+	background-color: #00a2ff;
+	margin-left: 40.8%;
+    top: 18px;
+	opacity: 0.2;
+}
+.midule-5 .img-list img{
+    display: inline-block;
+    width: 45%;
+}
+.midule-5 .img-list{
+    text-align: center;
+    max-width: 380px;
+    margin: 20px auto;
+    padding-bottom: 10px;
+}

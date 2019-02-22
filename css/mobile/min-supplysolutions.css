@@ -1,0 +1,46 @@
+
+.sup-top{
+    margin-top: 0.5rem;
+    width: 100%;
+    padding-bottom: 30px;
+    background: url('../../img/suppiy/zhu11.png') no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+    text-align: center;
+    padding-top: 30px;
+}
+.sup-top h1{
+    margin-bottom: 14px;
+}
+.sup-top .content>p{
+	margin-bottom: 0.14rem;
+	font-size: 12px;
+}
+.sup-top .content>div{
+    display: inline-block;
+    width: 0.8rem;
+    line-height: 0.3rem;
+	margin: 0 25px;
+}
+.sup-top .content .zhixun{
+    background-color: #00a2ff;
+}
+.sup-top .content .zhixun a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+}
+.sup-top .content .shengqing{
+    background-color: #fff;
+    color: #00a2ff;
+}
+/* -------- */
+.yw-step{
+    text-align: center;
+    padding: 30px 5px;
+}
+.yw-step>img{
+    width: 80%;
+    margin-top: 15px;
+}

@@ -1,0 +1,68 @@
+
+.case-bottom{
+    width: 81.25%;
+    max-width: 12rem;
+    margin: 0 auto;
+}
+.case-list{
+    margin-top: 0.9rem;
+    font-size: 16px;
+}
+.case-list h1{
+    text-align: center;
+    line-height: 1rem;
+    font-size: 0.2rem;
+    padding-top: 0.3rem;
+    font-weight: 700;
+}
+.type-list{
+    border-top: 1px solid #dcdcdc;
+    border-bottom: 1px solid #dcdcdc;
+    line-height: 0.5rem;
+}
+.type-list .s-list{
+    width: 81.25%;
+    max-width: 12rem;
+    margin: 0 auto;
+}
+.type-list span{
+    display: inline-block;
+    width: 0.8rem;
+    line-height: 0.3rem;
+    text-align: center;
+    margin-right: 0.7rem;
+}
+.type-list .active{
+    background-color: #008cf0;
+    color: #fff;
+}
+.list-detail{
+    padding-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 16px;
+}
+.list-detail .p-l{
+    min-width: 10.5rem;
+    height: 3rem;
+}
+.list-detail .p-l img{
+    display: inline-block;
+    width: 4rem;
+    vertical-align: top;
+    margin-right: 0.2rem;
+}
+.list-detail .p-l .fone{
+    display: inline-block;
+    width: 5rem;
+    text-align: left;
+    margin-left: 7%;
+}
+.list-detail .p-l .fone h1{
+    font-weight: 700;
+    font-size: 0.17rem;
+    line-height: 0.8rem;
+}
+.list-detail .p-l .fone p{
+    line-height:21px;
+    font-size: 14px;
+}

@@ -1,0 +1,241 @@
+.bottom-content{
+    position: relative;
+    top:0.9rem;
+    min-width: 8rem;
+}
+.bottom-content h1{
+    font-size: 0.3rem;
+    text-align: center;
+    line-height: 1rem;
+    letter-spacing: 2px;
+}
+/* ------------------------------------ */
+.fonts{
+    background: url('../img/b2bprodect/dscp.png') no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 3.5rem;
+}
+.fonts .font-name{
+    width: 80%;
+    margin: 0 auto;
+    height: 100%;
+    padding-top: 0.6rem;
+    text-align: center;
+    font-size: 16px;
+}
+.fonts .font-name p{
+    color: #fff;
+}
+.fonts .font-name .tms{
+    font-size: 0.3rem;
+    color: #fff;
+}
+.fonts .font-name .pingtai{
+    width: 5rem;
+    text-align: left;
+    margin: 0 auto;
+    padding-top: 0.2rem;
+    padding-bottom: 0.5rem;
+}
+.fonts .font-name div{
+    display: inline-block;
+    width: 1.4rem;
+    height: 0.35rem;
+    line-height: 0.35rem;
+    text-align: center;
+    margin-left: 0.3rem;
+}
+.btn1{
+    background-color: #00a2ff;
+    color: white;
+}
+.btn1 a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+}
+.btn2{
+    background-color: #fff;
+    color: #00a2ff;
+}
+/* ---------------------------------- */
+.business-setting{
+    min-width: 10.5rem;
+    background-color: rgb(36, 34, 34);
+    color: #fff;
+    padding: 0 1rem;
+    padding-bottom: 1rem;
+    font-size: 16px;
+}
+.business-setting h1{
+    text-align: center;
+    line-height: 1rem;
+}
+.business-setting ul li{
+    text-align: center;
+    line-height: 0.3rem;
+    letter-spacing: 2px;
+}
+.business-setting ul li span{
+    display: inline-block;
+    background-color: #fff;
+    width: 0.1rem;
+    height: 0.1rem;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.business-setting .flow-bg{
+    margin: 0 auto;
+    margin-top: 0.3rem;
+    width: 100%;
+    max-width: 10rem;
+    min-height: 4rem;
+    background: url('../img/prodectcenter/zhu36.png') no-repeat;
+    background-size: 100% 100%;
+}
+/* --------------------------------------------------------- */
+.terminal-feature{
+    margin-bottom: 0.5rem;
+}
+.terminal-feature ul{
+    width: 81.25%;
+    min-width: 8rem;
+    max-width: 12rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.terminal-feature ul li{
+    text-align: center;
+}
+.terminal-feature ul li>h2{
+    font-size: 0.17rem;
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+}
+.terminal-feature ul li>.user-b{
+    padding: 0 10px;
+    color: #fff;
+    background-color: #00a2ff;
+    line-height: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.terminal-feature ul li>p{
+    line-height: 0.3rem;
+    font-size: 0.16rem;
+}
+.terminal-feature ul li>p>span{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: #00a2ff;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+/* ========================================= */
+.profit-model{
+    background-color: #080a2e;
+    color: #fff;
+    text-align: center;
+    min-width: 10.6rem;
+    padding-bottom: 0.6rem;
+}
+.profit-model .model-l{
+    width: 1060px;
+    margin: 0 auto;
+    position: relative;
+}
+.profit-model .model-l>div{
+    display: inline-block;
+    position:absolute;
+}
+.profit-model .model-l>div>h2{
+    font-size: 0.15rem;
+    font-weight: 700;
+}
+.profit-model .model-l>.l-1{
+    text-align: right;
+    top: 58px;
+    left: 153px;
+}
+.profit-model .model-l>.l-2{
+    text-align: right;
+    top: 168px;
+    left: 82px;
+}
+.profit-model .model-l>.l-3{
+    text-align: right;
+    top: 285px;
+    left: 68px;
+}
+.profit-model .model-l>.l-4{
+    text-align: left;
+    top: 90px;
+    left: 787px;
+}
+.profit-model .model-l>.l-5{
+    text-align: left;
+    top: 260px;
+    left: 727px;
+}
+/* ---------------------------------- */
+.classic-case{
+    text-align:center;
+    padding-bottom: 0.5rem;
+}
+.classic-case .case-o img{
+    height: 0.5rem;
+    vertical-align: middle;
+}
+.classic-case .case-o>span{
+    display: inline-block;
+    width: 1.1rem;
+    line-height: 0.4rem;
+    background-color: #fa7641;
+    color: #fff;
+    margin-left: 20px;
+}
+.case-w {
+    width: 10rem;
+    height: 4rem;
+    margin: 10px auto;
+}
+.case-w .case-left{
+    float: left;
+    padding-top: 0.7rem;
+    text-align: left;
+}
+.case-w .case-left h2{
+    font-size: 0.16rem;
+    margin-bottom: 0.2rem;
+}
+.case-w .case-left p{
+    width: 4.9rem;
+    color: #222;
+    line-height: 28px;
+}
+.case-right{
+    float: right;
+}
+.case-right img{
+    width: 5rem;
+}
+.classic-case .btn{
+    text-align: left;
+    margin-bottom: 1rem;
+    width: 10rem;
+    margin: 0 auto;
+}
+.classic-case .btn div{
+    display: inline-block;
+    width: 1.4rem;
+    height: 0.35rem;
+    line-height: 0.35rem;
+    text-align: center;
+    margin-left: 0.3rem;
+}
+.classic-case .btn .btn2{
+    border:1px solid #00a2ff;
+}

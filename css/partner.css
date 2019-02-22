@@ -1,0 +1,38 @@
+.part-all{
+    position: relative;
+    top: 90px;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 2rem;
+}
+.content{
+    width: 81.25%;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.title{
+    font-size: 30px;
+    color: #222;
+}
+.ul{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 6vw;
+}
+.ul li{
+    width: 200px;
+}
+.ul li img{
+    width: 100%;
+}
+.ul li p{
+    margin-top: 20px;
+    font-size: 13px;
+    color: #222;
+}
+hr{
+    width: 100%;
+    height: 0px;
+    border: 1px solid #f8f8f8;
+    margin-top: 20px;
+}

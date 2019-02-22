@@ -1,0 +1,180 @@
+.bottom-content-mb{
+    position: relative;
+    top:0.5rem;
+    font-size: 12px;
+}
+.bottom-content-mb h1{
+    font-size: 0.17rem;
+    font-weight: 700;
+    text-align: center;
+    line-height: 0.6rem;
+    letter-spacing: 2px;
+}
+
+body .bottom-content-mb h1{
+    line-height: 17px;
+}
+/* ------------------------------------ */
+.fonts-mb{
+    background: url('../../img/b2bprodect/dscp.png') no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    padding-bottom: 30px;
+    padding-top: 0.3rem;
+}
+
+.fonts-mb .font-name-mb{
+    width: 90%;
+    margin: 0 auto;
+    height: 100%;
+    text-align: center;
+}
+.fonts-mb .font-name-mb p{
+    color: #fff;
+}
+.fonts-mb .font-name-mb .tms-mb{
+    font-size: 0.17rem;
+    font-weight: 700;
+    color: #fff;
+}
+.fonts-mb .font-name-mb .pingtai-mb{
+    text-align: left;
+    margin: 0 auto;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+.fonts-mb .font-name-mb div{
+    display: inline-block;
+    width: 0.6rem;
+    height: 0.3rem;
+    line-height: 0.3rem;
+    text-align: center;
+    margin: auto 0.1rem;
+}
+.fonts-mb .font-name-mb a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+}
+.btn1-mb{
+    background-color: #00a2ff;
+    color: white;
+}
+.btn1-mb a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+}
+.btn2-mb{
+    background-color: #fff;
+    color: #00a2ff;
+}
+/* ---------------------------------- */
+.business-setting-mb{
+    background-color: rgb(36, 34, 34);
+    color: #fff;
+    padding-bottom: 0.3rem;
+    padding-top: 30px;
+}
+.business-setting-mb h1{
+    font-size: 0.17rem;
+    text-align: center;
+}
+.business-setting-mb .flow-bg-mb{
+    margin: 0 auto;
+    margin-top: 0.2rem;
+    width: 240px;
+    height: 130px;
+    background: url('../../img/b2cmodel/step.png') no-repeat;
+    background-size: 100% 100%;
+}
+/* ------------------------------------------------ */
+.b2c-sc-mb{
+    text-align: center;
+    margin-bottom: 0.3rem;
+    background: #f7fbff;
+    padding-top: 30px;
+}
+.b2c-sc-mb h1{
+    margin-bottom: 20px;
+}
+.b2c-sc-mb>p{
+    width: 80%;
+    max-width: 320px;
+    text-align: left;
+    line-height: 30px;
+    margin: 0rem auto;
+}
+.b2c-sc-mb img{
+    margin-top: 0.2rem;
+    width: 80%;
+}
+/* ------------------------------------------------ */
+.profit-model-mb{
+    background-color: #080a2e;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 0.3rem;
+    font-size: 12px;
+    padding-top: 30px;
+}
+.profit-model-mb img{
+    margin-top: 20px;
+    width: 80%;
+}
+/* ------------------------- */
+.classic-case-mb{
+    text-align:center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.classic-case-mb h1{
+    margin-bottom: 30px;
+}
+.classic-case-mb .case-o-mb img{
+    height: 0.3rem;
+    vertical-align: middle;
+}
+.classic-case-mb .case-o-mb>span{
+    display: inline-block;
+    width: 0.86rem;
+    line-height: 0.3rem;
+    background-color: #00bc5d;
+    color: #fff;
+    margin-left: 20px;
+}
+.case-w-mb{
+    margin: 30px auto 0 auto;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+.case-w-mb img{
+    width: 240px;
+    height: 300px;
+    margin-bottom: 0.3rem;
+}
+.case-w-mb h2{
+    font-size: 0.16rem;
+    margin-bottom: 0.2rem;
+    color: #000;
+}
+.case-w-mb p{
+    text-indent: 2em;
+    text-align: left;
+    font-size: 12px;
+    line-height: 24px;
+    color: #222;
+}
+.classic-case-mb .btn-mb{
+    text-align: center;
+    margin-top: 0.2rem;
+}
+.classic-case-mb .btn-mb div{
+    display: inline-block;
+    width: 1.4rem;
+    height: 0.35rem;
+    line-height: 0.35rem;
+    text-align: center;
+}

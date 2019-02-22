@@ -1,0 +1,27 @@
+
+.us-mb{
+    width: 100%;
+    position: relative;
+    top: 50px;
+}
+
+.us-1-mb{
+    width: 81.25%;
+    margin: 20px auto auto auto;
+}
+.us-1-mb img{
+    width: 100%;
+}
+.us-1-mb h1{
+    font-size: 17px;
+    font-weight: 700;
+    color: #222;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.us-1-mb p{
+    color: #222;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 50px;
+}

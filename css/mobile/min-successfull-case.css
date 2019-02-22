@@ -1,0 +1,36 @@
+
+/* ---------------------------------------------------- */
+.part-mb{
+    position: relative;
+    top: 50px;
+}
+.part-mb h1{
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 50px;
+    color: #000;
+    text-align: center;
+}
+.case-bottom-mb{
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.case-bottom-mb img{
+    width: 80%;
+    height: 60vw;
+    margin-top: 20px;
+}
+.case-bottom-mb h2{
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.case-bottom-mb p{
+    font-size: 12px;
+    line-height: 18px;
+    padding: 0 10%;
+    margin: 0 auto;
+    text-align: left;
+}
+

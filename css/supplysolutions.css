@@ -1,0 +1,153 @@
+
+/* ------------------------------------------------- */
+.header-bg{
+    margin-top: 0.9rem;
+	width: 100%;
+    height: 4rem;
+    background: url('../img/suppiy/zhu11.png') no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+}
+.header-bg .content{
+    width: 4rem;
+    margin: 0 auto;
+    text-align: center;
+}
+.header-bg .content h1{
+    width: 3.63rem;
+    font-size: 0.3rem;
+    padding-top:1rem;
+    padding-bottom: 0.3rem;
+    text-align: center;
+    margin: 0 auto;
+}
+.header-bg .content>p{
+	margin-bottom: 0.4rem;
+	font-size: 16px;
+}
+.header-bg .content>div{
+    display: inline-block;
+    width: 1.2rem;
+    line-height: 0.4rem;
+	border: 1px solid #00a2ff;
+	margin: 0 25px;
+}
+.header-bg .content .zhixun{
+    background-color: #00a2ff;
+}
+.header-bg .content .zhixun a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+}
+.header-bg .content .shengqing{
+    background-color: #fff;
+    color: #00a2ff;
+}
+/* --------------------------------- */
+.business-step{
+    text-align: center;
+	font-size: 16px;
+}
+.business-step>p{
+    line-height: 0.3rem;
+	padding-top: 0.5rem;
+}
+.business-step .step{
+    width: 7.5rem;
+    margin: 0.3rem auto;
+    height: 4rem;
+}
+.business-step .step .step-left{
+    float: left;
+    width: 1.3rem;
+	background-color: #f2faff;
+	border-radius: 10px;
+    border: solid 1px #0081e4;
+}
+.business-step .step .step-left li{
+    line-height: 1.3rem;
+    text-align: center;
+    font-size: 0.17rem;
+}
+.business-step .step .step-right{
+    float: right;
+    margin-top: 0.3rem;
+}
+.business-step .step .step-right ul{
+    height: 0.5rem;
+    background-color: #0081e4;
+}
+.business-step .step .step-right ul li{
+    line-height: 0.5rem;
+    float: left;
+    color: white;
+    width: 1rem;
+}
+.business-step .step .step-right ul li span{
+	float: right;
+	width: 2px;
+	height: 0.25rem;
+	background-color: #fff;
+	margin-top: 13px;
+}
+.business-step .step .step-right .right-bottom li span{
+	float: right;
+	width: 2px;
+	height: 0.25rem;
+	background-color: #fff;
+	margin-top: 19px;
+}
+.business-step .step .step-right .right-z{
+    width: 2.8rem;
+    line-height: 0.8rem;
+    color: #fff;
+    background-color: #ff7800;
+    border-radius: 50%;
+    margin: 30px auto;
+}
+.right-zx{
+    height: 1rem;
+    width: 90%;
+    margin: 0 auto;
+	color: #fff;
+	font-size: 14px;
+}
+.right-zx>div>div{
+    padding: 0.2rem;
+}
+.right-zx .zx-l{
+    width: 2rem;
+    float: left;
+    display: flex;
+    justify-content: space-around;
+}
+.right-zx .zx-r{
+    width: 2rem;
+    float: right;
+    display: flex;
+    justify-content: space-around;
+ }
+.zx-l div:first-child{
+    background-color: #00ebb6;
+}
+.zx-l div:last-child{
+    background-color:#ff7800;
+}
+.zx-r div:first-child{
+    background-color:#2687ff;
+}
+.zx-r div:last-child{
+    background-color:#00e4c1;
+}
+.business-step .step .step-right .right-bottom{
+    height: 0.6rem;
+    display: flex;
+    justify-content: center;
+}
+.business-step .step .step-right .right-bottom li{
+    line-height: 0.6rem;
+}
+
+/* -------------------------------------------- */
